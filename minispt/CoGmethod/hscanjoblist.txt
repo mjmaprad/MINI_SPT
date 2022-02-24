@@ -1,0 +1,12 @@
+root -l -b -q 'COGMethod4cube.cc("8x6y-200k","gamma60keV",8)' &> logs/h8-60kev.txt 
+root -l -b -q 'COGMethod4cube.cc("8x6y-200k","gamma140keV",8)' &> logs/h8-140kev.txt 
+root -l -b -q 'COGMethod4cube.cc("8x6y-200k","gamma500keV",8)' &> logs/h8-500kev.txt 
+root -l -b -q 'COGMethod4cube.cc("8x6y-200k","gamma1200keV",8)' &> logs/h8-1200kev.txt 
+root -l -b -q 'COGMethod4cube.cc("8x6y-200k","gamma60keV",10)' &> logs/h10-60kev.txt 
+root -l -b -q 'COGMethod4cube.cc("8x6y-200k","gamma140keV",10)' &> logs/h10-140kev.txt 
+root -l -b -q 'COGMethod4cube.cc("8x6y-200k","gamma500keV",10)' &> logs/h10-500kev.txt 
+root -l -b -q 'COGMethod4cube.cc("8x6y-200k","gamma1200keV",10)' &> logs/h10-1200kev.txt 
+root -l -b -q 'COGMethod4cube.cc("8x6y-200k","gamma60keV",12)' &> logs/h12-60kev.txt 
+root -l -b -q 'COGMethod4cube.cc("8x6y-200k","gamma140keV",12)' &> logs/h12-140kev.txt 
+root -l -b -q 'COGMethod4cube.cc("8x6y-200k","gamma500keV",12)' &> logs/h12-500kev.txt 
+root -l -b -q 'COGMethod4cube.cc("8x6y-200k","gamma1200keV",12)' &> logs/h12-1200kev.txt 

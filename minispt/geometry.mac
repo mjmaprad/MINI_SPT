@@ -1,0 +1,47 @@
+/mini_spt/scint/halfx 13 mm
+/mini_spt/scint/halfy 13 mm
+/mini_spt/scint/halfz 13 mm
+
+/mini_spt/sipmarray/numBottom 64
+/mini_spt/sipmarray/numSide 0
+
+
+
+#//////////////////////////////////////////////////////////////
+/mini_spt/MLI/halfx 25 mm
+/mini_spt/MLI/halfy 25 mm
+/mini_spt/MLI/halfz 0.25 mm
+/mini_spt/MLI/zpos  90 mm
+#//////////////////////////////////////////////////////////////
+/mini_spt/scintupper/halfx 10 mm
+/mini_spt/scintupper/halfy 10 mm
+/mini_spt/scintupper/halfz 0.5 mm
+/mini_spt/scintupper/zpos  80 mm
+#//////////////////////////////////////////////////////////////
+/mini_spt/SPD1/halfx 4 mm
+/mini_spt/SPD1/halfy 4 mm
+/mini_spt/SPD1/halfz 0.1425 mm
+/mini_spt/SPD1/zpos  70 mm
+#//////////////////////////////////////////////////////////////
+/mini_spt/SPD2/halfx 4 mm
+/mini_spt/SPD2/halfy 4 mm
+/mini_spt/SPD2/halfz 0.1425 mm
+/mini_spt/SPD2/zpos  60 mm
+#//////////////////////////////////////////////////////////////
+/mini_spt/SPD3/halfx 4 mm
+/mini_spt/SPD3/halfy 4 mm
+/mini_spt/SPD3/halfz 0.1425 mm
+/mini_spt/SPD3/zpos  50 mm
+#//////////////////////////////////////////////////////////////
+/mini_spt/SPD4/halfx 4 mm
+/mini_spt/SPD4/halfy 4 mm
+/mini_spt/SPD4/halfz 0.1425 mm
+/mini_spt/SPD4/zpos 40 mm
+#//////////////////////////////////////////////////////////////
+/mini_spt/scintlower/halfx 10 mm
+/mini_spt/scintlower/halfy 10 mm
+/mini_spt/scintlower/halfz 0.5 mm
+/mini_spt/scintlower/zpos 30 mm
+#//////////////////////////////////////////////////////
+/mini_spt/ROC/halfz 0.00025 mm
+

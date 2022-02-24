@@ -1,0 +1,8 @@
+/gps/particle ion
+/gps/ion 71 176
+/gps/pos/type Volume
+/gps/pos/shape Sphere
+/gps/pos/centre 0. 0. 0. mm
+/gps/pos/radius 30 mm
+/gps/pos/confine Scint
+/gps/ang/type iso

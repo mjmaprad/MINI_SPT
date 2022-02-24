@@ -1,0 +1,14 @@
+########################################
+/control/cout/ignoreThreadsExcept 0
+/gps/particle ion
+/gps/ion 6 12
+#/gps/particle proton
+/gps/pos/type Point
+/gps/pos/centre 0. 0. 20 cm # 0
+/gps/direction 0 0 -1
+#///////////
+/gps/ene/type Lin
+/gps/ene/min 0.1 MeV
+/gps/ene/max 500. MeV
+/gps/ene/gradient 0.
+/gps/ene/intercept 1.

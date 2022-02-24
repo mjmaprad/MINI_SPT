@@ -1,0 +1,3 @@
+root -l -b -q 'DataCOGMethod.cc("noSource")' &> logs/data-nosurce.txt 
+root -l -b -q 'DataCOGMethod.cc("Na22source")' &> logs/data-na22surce.txt 
+root -l -b -q 'DataCOGMethod.cc("subtraction")' &> logs/data-sub.txt 
